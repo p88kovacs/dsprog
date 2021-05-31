@@ -1,6 +1,6 @@
 # prog
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/p88kovacs/dsprog/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/p88kovacs/dsprog/main)
 
 progproj
 
